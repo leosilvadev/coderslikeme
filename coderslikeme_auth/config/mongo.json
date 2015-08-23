@@ -1,0 +1,6 @@
+{
+	"MONGODB": {
+		"test":"mongodb://localhost/clm_auth_tst",
+		"development":"mongodb://localhost/clm_auth"
+	}
+}

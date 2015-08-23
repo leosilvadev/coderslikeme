@@ -1,0 +1,13 @@
+bin/
+node_modules/
+logs
+*.log
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+.grunt
+.lock-wscript
+build/Release
+*.swp
